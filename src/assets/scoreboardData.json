@@ -1,0 +1,8 @@
+[
+  {"id": 1,"teamname": "team1","teamphoto":"teamphoto1","points": 567},
+  {"id": 2,"teamname": "team2","teamphoto":"teamphoto2","points": 467},
+  {"id": 3,"teamname": "team3","teamphoto":"teamphoto3","points": 367},
+  {"id": 4,"teamname": "team4","teamphoto":"teamphoto4","points": 267},
+  {"id": 5,"teamname": "team5","teamphoto":"teamphoto5","points": 167},
+  {"id": 6,"teamname": "team6","teamphoto":"teamphoto6","points": 67}
+]
